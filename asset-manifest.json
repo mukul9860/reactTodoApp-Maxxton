@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactTodoApp-Maxxton/static/css/main.c66d2cd5.chunk.css",
+    "main.js": "/reactTodoApp-Maxxton/static/js/main.102f06d9.chunk.js",
+    "main.js.map": "/reactTodoApp-Maxxton/static/js/main.102f06d9.chunk.js.map",
+    "runtime-main.js": "/reactTodoApp-Maxxton/static/js/runtime-main.efbf4d94.js",
+    "runtime-main.js.map": "/reactTodoApp-Maxxton/static/js/runtime-main.efbf4d94.js.map",
+    "static/css/2.63b0a0b5.chunk.css": "/reactTodoApp-Maxxton/static/css/2.63b0a0b5.chunk.css",
+    "static/js/2.d2c31b3b.chunk.js": "/reactTodoApp-Maxxton/static/js/2.d2c31b3b.chunk.js",
+    "static/js/2.d2c31b3b.chunk.js.map": "/reactTodoApp-Maxxton/static/js/2.d2c31b3b.chunk.js.map",
+    "index.html": "/reactTodoApp-Maxxton/index.html",
+    "static/css/2.63b0a0b5.chunk.css.map": "/reactTodoApp-Maxxton/static/css/2.63b0a0b5.chunk.css.map",
+    "static/css/main.c66d2cd5.chunk.css.map": "/reactTodoApp-Maxxton/static/css/main.c66d2cd5.chunk.css.map",
+    "static/js/2.d2c31b3b.chunk.js.LICENSE.txt": "/reactTodoApp-Maxxton/static/js/2.d2c31b3b.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/reactTodoApp-Maxxton/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efbf4d94.js",
+    "static/css/2.63b0a0b5.chunk.css",
+    "static/js/2.d2c31b3b.chunk.js",
+    "static/css/main.c66d2cd5.chunk.css",
+    "static/js/main.102f06d9.chunk.js"
+  ]
+}

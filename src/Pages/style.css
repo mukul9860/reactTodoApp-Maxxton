@@ -1,0 +1,7 @@
+.addTask_ic{
+    cursor: pointer;
+    color: rgb(31, 63, 245);
+}
+.addTask_ic:hover{
+    color: green;
+}
